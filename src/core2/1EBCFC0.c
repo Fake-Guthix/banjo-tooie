@@ -22,11 +22,11 @@ s32 func_800A89F8();
 s32 func_800C4C34(s32, s32, s32, s32*);
 void func_800CA314(s32, s32);
 s32 func_800CA334();
-void func_800CA364(s32);
+void func_800CA364(void*);
 void func_800CA3F4(s32, s32, f32);
 f32 func_800CA6E8(s32);
 MtxF* func_800CA7AC(s32);
-void func_800CA7E4(s32, f32[3]);
+f32 func_800CA7E4(s32, f32[3]);
 u16 func_800CB124(s32, MtxF*);
 void func_800E443C(MtxF*, f32[3], f32);
 

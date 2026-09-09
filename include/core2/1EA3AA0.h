@@ -7,5 +7,9 @@ void func_800CA810(s32, s32);
 void func_800CA9D8(f32 *, s32 *);
 f32 func_800CAA1C(s32);
 f32 func_800CAF00(f32 [3], f32);
+f32 func_800CA7E4(s32, f32[3]);
+s32 func_800CA334();
+void func_800CA364(void*);
+
 
 #endif // __CORE2_1EA3AA0_H__
